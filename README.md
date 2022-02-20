@@ -1,2 +1,11 @@
 # INSULATOR1
-First
+
+
+Welcome to my project! 
+
+model
+View 
+Controller
+
+MOdel1 
+model2
